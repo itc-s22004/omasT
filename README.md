@@ -1,0 +1,3 @@
+konnnitiwa
+:wq
+
