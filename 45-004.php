@@ -1,5 +1,5 @@
 <?php 
-  session_start()
+  session_start();
 ?><body>
 <form action="45-005.php" method="post" enctype="multipart/form-data">
 ファイル:<input type="file" name="imgfile" size="20"><br>
